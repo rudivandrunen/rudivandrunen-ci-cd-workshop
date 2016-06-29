@@ -1,11 +1,11 @@
 # Site settings
-title: CI and CD with GitHub
+title: CI and CD with GitHub TEST
 description: A demo blog
-email: training@github.com
-twitter_username: githubtraining
-github_username:  githubteacher
+email: rudivandrunen@gmail.com
+twitter_username: dvidur
+github_username:  rudivandrunen
 baseurl:
-url: https://githubteacher-ci-cd-workshop.herokuapp.com
+url: https://rudivandrunen-ci-cd-workshop.herokuapp.com
 destination: site_content
 exclude: [ 'vendor' ]
 
